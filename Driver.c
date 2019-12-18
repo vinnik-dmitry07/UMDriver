@@ -36,6 +36,8 @@ DriverEntry(
 
 	TraceEvents(TRACE_LEVEL_INFORMATION, TRACE_DRIVER, "Hello there!");
 
+	TraceEvents(TRACE_LEVEL_INFORMATION, TRACE_DRIVER, "%!FUNC! Exit");
+
 	return status;
 }
 
