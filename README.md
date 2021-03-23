@@ -1,3 +1,7 @@
+# UserModeWindowsDriver
+A simple user-mode driver that sends the "Hello there!" message to the kernel debugger.
+
+## Steps
 Make sure you have the Tracelog tool on your target computer. The tool is located in the <install_folder>Windows Kits\10\Tools\<arch> folder of the WDK.
 
 Open a Command Window and run as administrator.
