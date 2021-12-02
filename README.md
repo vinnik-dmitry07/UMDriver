@@ -1,4 +1,4 @@
-# user-mode-windows-driver
+# User Mode Windows Driver
 A simple user-mode driver that sends the "Hello there!" message to the kernel debugger.
 
 ## Steps
